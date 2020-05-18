@@ -1,0 +1,66 @@
+/* body{
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 20% 40%;
+    background-position: center;
+    background-size: 400px 600px;
+    font-size: large;
+    border: ;
+}
+
+#input{
+    white-space: nowrap;
+    width: 200px;
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 1000;
+} */
+
+body{
+    background-image: url(close-up-photography-of-cup-of-coffee-851555.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: black;
+    font-size: 40px;
+    margin-left: 120px;
+
+}
+
+#btn{
+    background-color: firebrick; /* Green */
+    border: none;
+    font-weight: bolder;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+}
+
+#price{
+    width: 10%;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 25px;
+    background-color: wheat;
+}
+
+#lableHabibi{
+    
+}
+#firsth{
+    font-size: 70px;
+    color:wheat;
+    margin-bottom: 20px;
+
+}
+#firsth1{
+    margin: unset;
+    color:wheat;
+
+}
